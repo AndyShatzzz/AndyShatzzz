@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 I'm React Frontend developer with Backend technology skills.
 I try to wirite code 24/7.
@@ -13,7 +13,7 @@ I believe, that еhere are no unsolvable tasks!
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="https://vk.com/andyshatzzz" target="_blank">
@@ -23,7 +23,7 @@ I believe, that еhere are no unsolvable tasks!
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -42,7 +42,7 @@ I believe, that еhere are no unsolvable tasks!
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/MicrosoftDocs/visualstudio-docs/blob/main/docs/media/vs-code-logo.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
