@@ -1,11 +1,13 @@
 
-# Привет, меня зовут Андрей!
+# Hallo, I'm Andy
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик Мой путь в it начался с Яндекс Практикума. Всегда было интересно направление Веб разработки. С декабря 2022 года я начал учиться на курсах Яндекс Практикума, параллельно старался прокачивать свой скил в кодинге, изучал новые стеки, решал задачки на Code Wars. На данный момент я закончил свое обучение в Практикуме, закрываю свои пробелы в JS и React, а также изучаю необходимые технологии, которые нужны для того, чтобы найти свою первую работу.
+I'm React Frontend developer with Backend technology skills.
+I try to wirite code 24/7.
+I believe, that еhere are no unsolvable tasks!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-andyshatzzz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andyshatzzz) [![Mail Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Gmail&logoColor=white)](mailto:ponchic-09@mail.ru)
 
