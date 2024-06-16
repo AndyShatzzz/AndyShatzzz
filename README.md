@@ -7,7 +7,7 @@
 
 I'm React Frontend developer with Backend technology skills.
 I try to wirite code 24/7.
-I believe, that еhere are no unsolvable tasks!
+I believe, that there are no unsolvable tasks!
 
 - :mailbox: How to contact with me: [![Telegram Badge](https://img.shields.io/badge/-andyshatzzz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andyshatzzz) [![Mail Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Gmail&logoColor=white)](mailto:ponchic-09@mail.ru)
 
